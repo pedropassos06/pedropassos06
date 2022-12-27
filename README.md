@@ -6,10 +6,10 @@ Computer Engineering Student
 
 I am currently in my four-year studying Computer Engineering at Bucknell University. I started out as a Mechanical Engineering major, but switched after taking a Computer Engineering seminar, where I got to play around with an Arduino. After switching to CompE, I have had experiences with both hardware and software, but found my passion in software. I love developing games, websites, dealing with logic, algorithms, and databases! Open to opportunities :)
 
-* 🌍  I'm based in Boston
-* 🖥️  See my portfolio at [My Portfolio](http://pedropassos.com)
-* ✉️  You can contact me at [pccp001@bucknell.edu](mailto:pccp001@bucknell.edu)
-* 🧠  I'm learning React
+* 🌍  Based out of Boston
+* 🖥️  Check out my portfolio at [My Portfolio](http://pedropassos.com)
+* ✉️  Contact me at [pccp001@bucknell.edu](mailto:pccp001@bucknell.edu)
+* 🧠  Currently learning React
 
 ### Skills
 
