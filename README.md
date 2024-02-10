@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer at Berkshire Hathaway
 ----------------------------
 
-I graduated Summa Cum Laude from Bucknell University in May of 2023, and have been working as a developer at Berkshire Hathaway Specialty Insurance since then. I currently develop using Duck Creek Technology, and have learned at lot about the insurance world. My passion always learned towards the back-end, but I do full-stack at my job and have learned that front-end is a lot of fun as well. That said, I am currently teaching mylsef SwiftUI. Also, I post videos related to programming on Youtube every Sunday (Portuguese only tho 😬)
+I graduated Summa Cum Laude from Bucknell University in May of 2023, and have been working as a developer at Berkshire Hathaway Specialty Insurance since then. I currently develop using Duck Creek Technology, and have learned at lot about the insurance world. My passion always leaned towards the back-end, but I do full-stack at my job and have learned that front-end is a lot of fun as well. That said, I am currently teaching mylsef SwiftUI. Also, I post videos related to programming on Youtube every Sunday (Portuguese only tho 😬)
 
 * 🌍  Based out of Boston
 * 🖥️  Check out my portfolio at [My Portfolio](http://pedropassos.com)
