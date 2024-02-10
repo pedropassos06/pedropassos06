@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pedro Passos
 ====================================================================================================================================
 
-Computer Engineering Student
+Developer at Berkshire Hathaway
 ----------------------------
 
-I am currently in my four-year studying Computer Engineering at Bucknell University. I started out as a Mechanical Engineering major, but switched after taking a Computer Engineering seminar, where I got to play around with an Arduino. After switching to CompE, I have had experiences with both hardware and software, but found my passion in software. I love developing games, websites, dealing with logic, algorithms, and databases! Open to opportunities :)
+I graduated Summa Cum Laude from Bucknell University in May of 2023, and have been working as a developer at Berkshire Hathaway Specialty Insurance since then. I currently develop using Duck Creek Technology, and have learned at lot about the insurance world. My passion always learned towards the back-end, but I do full-stack at my job and have learned that front-end is a lot of fun as well. That said, I am currently teaching mylsef SwiftUI. Also, I post videos related to programming on Youtube every Sunday (Portuguese only tho 😬)
 
 * 🌍  Based out of Boston
 * 🖥️  Check out my portfolio at [My Portfolio](http://pedropassos.com)
 * ✉️  Contact me at [pccp001@bucknell.edu](mailto:pccp001@bucknell.edu)
-* 🧠  Currently learning React
+* 🧠  Currently learning SwiftUI
 
 ### Skills
 
@@ -28,7 +28,7 @@ I am currently in my four-year studying Computer Engineering at Bucknell Univers
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/pedropassos06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pedro-passos-2651b119b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/pedropassos06" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pedro-passos-2651b119b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/channel/UCWN4jpnb1vwvzMyxS_rfu9Q" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
